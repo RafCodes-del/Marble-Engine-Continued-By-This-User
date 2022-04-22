@@ -1,4 +1,4 @@
-<p> Hello Guys! I Really Wanted To Continue This Project And If You Are Reading This Owner If You Wanna Give The Respritory To Me I Can Give Updates To It</p>
+<p>Chào các bạn! Tôi thực sự muốn tiếp tục dự án này và nếu bạn đang đọc chủ sở hữu này nếu bạn muốn cung cấp cho tôi respritory cho tôi, tôi có thể cung cấp thông tin cập nhật cho nó</p>
 <div align="center">
     <img src="Resources/Branding/logo.png">
     <div><b>A simple, lightweight maze game engine created in Batch</b></div>
